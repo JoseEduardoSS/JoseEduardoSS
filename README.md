@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/JoseEduardoSS">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseEduardoSS&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEduardoSS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseEduardoSS&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEduardoSS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ## 🔭 Languages and technologies
