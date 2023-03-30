@@ -1,7 +1,7 @@
 <h1 align="left">Hi there (👉ﾟヮﾟ)👉, I'm José Eduardo!</h1>
 
 - 👨‍💻 I'm currently working with Angular and Spring Boot!
-- 📒 I'm currently studying React and Golang!
+- 📒 I'm currently studying React and Spring Boot!
 
 ## ⚙️ &nbsp;GitHub Analytics
 
