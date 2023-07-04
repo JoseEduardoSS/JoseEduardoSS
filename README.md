@@ -22,8 +22,8 @@
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
-  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
   <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
+  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg">
   <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e9/4a/43/e94a434eb01b15e2b6d0f7723f69d0d2.gif">
 </div>
   
